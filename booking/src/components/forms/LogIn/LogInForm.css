@@ -1,0 +1,26 @@
+.login-form {
+    width: 70%;
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.show-password {
+    text-align: end;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.register-label {
+    align-self: flex-end;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.submit-button {
+    width: 40%;
+    align-self: center;
+}

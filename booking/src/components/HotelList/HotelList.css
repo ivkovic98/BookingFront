@@ -1,0 +1,33 @@
+p.hotel-label {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+td.action-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: space-around;
+
+}
+
+.search-bar {
+    width: 50%;
+}
+
+.add-new-hotel {
+    width: auto;
+}
+
+.table-toolbar {
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+
+.action-buttons-row {
+    width: 100%;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+
+}
